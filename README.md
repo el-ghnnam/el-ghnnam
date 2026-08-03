@@ -91,13 +91,6 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 
 ---
 
-### 🚀 Featured Projects
-
-- **Brain Tumor Classification** — A deep learning model for classifying brain tumors from MRI scans using CNNs.
-- **Brain Tumor Flutter App** — A mobile application that brings the classification model to end users.
-- **CNN Image Classification** — Convolutional Neural Network experiments for image classification tasks.
-- **RNN Name Classification** — A recurrent neural network for character-level name classification.
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

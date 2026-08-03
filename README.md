@@ -8,15 +8,12 @@ Passionate AI Engineer exploring Computer Vision, Deep Learning, Vision Transfor
 
 I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** and **Deep Learning**. My focus is on building intelligent systems that solve real-world problems using modern AI technologies — from Convolutional Neural Networks to Vision Transformers. I'm strengthening both my theoretical foundations (Linear Algebra, Probability, Optimization) and practical engineering skills, while working toward becoming a production-grade **Computer Vision Engineer**.
 
-- 🔭 Currently working on: **Computer Vision & Deep Learning projects**
-- 🌱 Currently learning: **Vision Transformers, Multimodal AI, Self-Supervised Learning**
-- 👨‍💻 All of my projects are available at: [my GitHub profile](https://github.com/el-ghnnam)
-- 💬 Ask me about: **Computer Vision, Deep Learning, Machine Learning, AI**
-- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam)
-
-- 🔭 I’m currently working on **Mobile Applications using flutter**
-
-- 🌱 I’m currently learning **Flutter Development, React Native.**
+- Currently building **AI-powered applications with Computer Vision and Deep Learning**
+- Exploring **Vision Transformers, Multimodal AI, LLMs, RAG, AI Agents, and MLOps**
+- Experienced with **PyTorch, TensorFlow, OpenCV, Scikit-learn, FastAPI, and Docker**
+- Interested in **Computer Vision, Vision AI, Machine Learning, Deep Learning, and Generative AI**
+- View my projects on **[GitHub](https://github.com/el-ghnnam)**
+- Connect with me on **[LinkedIn](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam)**
 =======
 ---
 

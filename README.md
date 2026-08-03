@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Mobile Applications using flutter**
 
-- 🌱 I’m currently learning **Flutter Development, React Native**
+- 🌱 I’m currently learning **Flutter Development, React Native.**
 
 - 💬 Ask me about **Mobile Applications,**
 

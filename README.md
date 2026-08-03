@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:3840/1*KcxCTzISut_FEkKduDE4hw.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Ghnnam</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 <img align="right" width=400 alt="Coding" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
@@ -7,7 +6,6 @@
 ## About Me
 
 I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** and **Deep Learning**. My focus is on building intelligent systems that solve real-world problems using modern AI technologies — from Convolutional Neural Networks to Vision Transformers. I'm strengthening both my theoretical foundations (Linear Algebra, Probability, Optimization) and practical engineering skills, while working toward becoming a production-grade **Computer Vision Engineer**.
->>>>>>> Stashed changes
 
 - 🔭 Currently working on: **Computer Vision & Deep Learning projects**
 - 🌱 Currently learning: **Vision Transformers, Multimodal AI, Self-Supervised Learning**

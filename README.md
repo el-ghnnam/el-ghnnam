@@ -12,13 +12,10 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 - Exploring **Vision Transformers, Multimodal AI, LLMs, RAG, AI Agents, and MLOps**
 - Experienced with **PyTorch, TensorFlow, OpenCV, Scikit-learn, FastAPI, and Docker**
 - Interested in **Computer Vision, Vision AI, Machine Learning, Deep Learning, and Generative AI**
-- View my projects on **[GitHub](https://github.com/el-ghnnam)**
-- Connect with me on **[LinkedIn](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam)**
-=======
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/el-ghnnam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/el-ghnnam)
 
 # 💻 Tech Stack:
 

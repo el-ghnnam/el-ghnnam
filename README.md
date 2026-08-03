@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ![MasterHead](https://miro.medium.com/v2/resize:fit:3840/1*KcxCTzISut_FEkKduDE4hw.gif)
 <h1 align="center">Hi 👋, I'm Ahmed Ghnnam</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
@@ -16,7 +15,6 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 - 💬 Ask me about: **Computer Vision, Deep Learning, Machine Learning, AI**
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam)
 
-<<<<<<< Updated upstream
 - 🔭 I’m currently working on **Mobile Applications using flutter**
 
 - 🌱 I’m currently learning **Flutter Development, React Native.**
@@ -24,8 +22,6 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 ---
 
 ## 🌐 Socials:
->>>>>>> Stashed changes
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ahmed-Ibrahim-ghnnam) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/el-ghnnam)
 
 # 💻 Tech Stack:

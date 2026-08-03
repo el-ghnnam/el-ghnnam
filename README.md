@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ghannam</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Ghnnam</h1>
 <h3 align="center">
 Passionate AI Engineer exploring Computer Vision, Deep Learning, Vision Transformers(ViT), and Large Language Models(LLMs)
 </h3>

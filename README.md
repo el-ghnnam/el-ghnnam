@@ -1,4 +1,5 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:3840/1*KcxCTzISut_FEkKduDE4hw.gif)
+
 <h1 align="center">Hi 👋, I'm Ahmed Ghnnam</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 <img align="right" width=400 alt="Coding" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
@@ -6,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Applications using flutter**
+- 🔭 I’m currently working on **Mobile Applications using flutter.**
 
-- 🌱 I’m currently learning **Flutter Development, React Native.**
+- 🌱 I’m currently learning **Flutter Development, React Native**
 
 - 💬 Ask me about **Mobile Applications,**
 

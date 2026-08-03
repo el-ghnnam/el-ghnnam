@@ -29,7 +29,7 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -39,7 +39,7 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
 
-### 👁️ Computer Vision
+### Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
@@ -47,7 +47,7 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge)
 ![Albumentations](https://img.shields.io/badge/Albumentations-FF6F00?style=for-the-badge)
 
-### 🧠 Generative AI / LLMs
+### Generative AI / LLMs
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
@@ -57,7 +57,7 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### 📊 Data Science
+### Data Science
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -66,14 +66,14 @@ I am an **AI Intern @ FlyRank**, currently specializing in **Computer Vision** a
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🚀 Deployment & APIs
+### Deployment & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🛠️ Development
+### Development
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
